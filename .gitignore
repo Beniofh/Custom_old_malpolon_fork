@@ -9,12 +9,15 @@
 
 docs/_build
 
-
-examples_perso/brouillon/
 examples_perso/geolifeclef/
 examples_perso/geolifeclef_ben/
 examples_perso/micro_geolifeclef/
-examples_perso/multiband_unimodel/outputs/
+
 examples_perso/multiband_unimodel/brouillon/
+examples_perso/multiband_unimodel/jean_zay/
+examples_perso/multiband_unimodel/outputs/
+examples_perso/multiband_unimodel/__pycache__/
+examples_perso/multiband_unimodel/.vscode/
 
 environnement_opti_ben.yml
+environnement_opti_ben_2.yml
