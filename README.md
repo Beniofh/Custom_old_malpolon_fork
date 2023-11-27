@@ -17,7 +17,7 @@ conda activate <name>
 `malpolon` can then be installed via `pip` using
 
 ```script
-git clone https://github.com/plantnet/malpolon.git
+git clone https://github.com/Beniofh/Custom_old_malpolon_fork.git
 cd malpolon
 pip install -e .
 ```
