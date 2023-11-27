@@ -1,6 +1,6 @@
-# Malpolon
+# Old Malpolon fork that has been customised
 
-Malpolon is a framework facilitating the training of Deep Species Distribution models using various types of input covariates including biodclimatic rasters, remote sensing images, land-use rasters, etc. 
+This is a modified and unofficial version of a `very old fork of the Malpolon framework`. You can find the current version of Malpolon here: [https://github.com/plantnet/malpolon](https://github.com/plantnet/malpolon). 
 
 ## Installation
 
